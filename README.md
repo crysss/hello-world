@@ -1,6 +1,7 @@
 # hello-world
 the first repository
 
-Some modifications were made to this file.
+This is the second version
+It's better than the previous one.
 
 
